@@ -1,0 +1,5 @@
+.debhelper
+colord-kde
+colord-kde.stubvars
+debhelper-build-stamp
+files
